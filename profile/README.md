@@ -18,6 +18,12 @@ Na **MuzyTweaks**, unimos engenharia de software e tuning de baixo nível para e
 
 ---
 
+### 💻 Foco no Desenvolvimento
+
+Nossos projetos envolvem tecnologias focadas em eficiência e interação direta com o sistema operacional.
+
+---
+
 ### 📦 Nosso Software Principal: MuzyTweaks Utility
 
 O **MuzyTweaks Utility** é a nossa ferramenta "all-in-one" desenvolvida para quem busca performance de elite.
