@@ -38,7 +38,7 @@ O **MuzyTweaks Utility** é a nossa ferramenta "all-in-one" desenvolvida para qu
 Siga nosso trabalho e transforme sua máquina em uma fera competitiva:
 
 * 🌍 **Site Oficial:** [muzytweaks.com](https://muzytweaks.com/)
-* 🛒 **Loja/Produtos:** [Acesse aqui](https://muzytweaks.com/loja)
+* 🛒 **Loja/Produtos:** [Acesse aqui](https://muzytweaks.com/softwares)
 * 📱 **Discord / Comunidade:** [Junte-se a nós](https://discord.gg/ZeRhHzNvd)
 * 📸 **Instagram:** [@muzytweaks](https://www.instagram.com/muzytweaks?igsh=MTYyZWNwdjJrd3U5ag==)
 
