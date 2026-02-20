@@ -39,8 +39,8 @@ Siga nosso trabalho e transforme sua máquina em uma fera competitiva:
 
 * 🌍 **Site Oficial:** [muzytweaks.com](https://muzytweaks.com/)
 * 🛒 **Loja/Produtos:** [Acesse aqui](https://muzytweaks.com/loja)
-* 📱 **Discord / Comunidade:** [Junte-se a nós](LINK_DO_DISCORD)
-* 📸 **Instagram:** [@muzytweaks](LINK_DO_INSTAGRAM)
+* 📱 **Discord / Comunidade:** [Junte-se a nós](https://discord.gg/ZeRhHzNvd)
+* 📸 **Instagram:** [@muzytweaks](https://www.instagram.com/muzytweaks?igsh=MTYyZWNwdjJrd3U5ag==)
 
 ---
 
